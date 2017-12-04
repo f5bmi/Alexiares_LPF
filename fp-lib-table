@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name conn_kk100)(type KiCad)(uri C:\Users\Guy\Documents\Radio\LPF\Modules\conn_kk100.pretty)(options "")(descr ""))
+  (lib (name T50)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\T50.pretty")(options "")(descr ""))
+  (lib (name ATC_B)(type KiCad)(uri "$(KIPRJMOD)\\Modules\\ATC_B.pretty")(options "")(descr ""))
+  (lib (name VIA)(type KiCad)(uri C:\Users\Guy\Documents\Radio\LPF3\Modules\Via.pretty)(options "")(descr ""))
+)
